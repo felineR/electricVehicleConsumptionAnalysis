@@ -22,9 +22,13 @@ the Random Forest Regression yields the best results with a mean of mean squared
 Files in the repository:
 
 Battery_and_Heating_Analysis.ipynb | contains all python code written for this analysis
+
 battery_and_heating_data | contains all data in csv / xlsx format used for this analysis
+
      /Overview.xlsx | contains informations for every trip, e.g. date, region, and weather
+
      /Trip<A01 - B38>.csv | 70 files, one for each trip taken that show measures recorded while driving
+
 README.md | contains all useful informations to get starting studying this project. This document is the README.md.
 
 
