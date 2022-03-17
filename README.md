@@ -16,7 +16,7 @@ We see that the State of Charge is dependent on other measures taken throughout 
 and motor torque. Additionally, we see a trend that a high difference between ambient and cabin temperature increases the power needed
 to move the vehicle per kilometer.
 Upon testing four regression techniques (Linear Regression, Decision Tree, Random Forest Regression, K Nearest Neighbor), we see that
-the Random Forest Regression yields the best results with a mean of mean squared error of 15.45 and a median of 6.52.
+the Random Forest Regression yields the best results with a mean of mean squared error of 12.89 and a median of 4.93.
 
 
 Files in the repository:
